@@ -30,8 +30,6 @@ WIP
 
 I also want to make a small 3D-printed housing for the switche tester since it's just a piece of acrylic with holes for the switches. The housing angles the acrylic plate at 7 degrees and adds an extra compartment for the OLED screen and layer switch. It should also be able to contain the other hardware. Right now it's still a work in progress.
 
-Download the 3D model [here](models/housing.stl)
-
 ![Housing](images/housing.png)
 
 ## Parts
@@ -63,3 +61,9 @@ WIP
 -   [QMK handwire guide](https://beta.docs.qmk.fm/using-qmk/guides/keyboard-building/hand_wire)
 -   [Pro Micro pinout](https://www.reddit.com/r/olkb/comments/5s8q76/help_pro_micro_pinout_for_qmk/)
 -   [Keyboard layout editor](http://www.keyboard-layout-editor.com/#/)
+
+## Build log
+### 07/07/2020
+The tester arrived and the idea to make the macropad was born.
+
+![Tester](images/tester.jpg)
