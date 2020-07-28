@@ -28,7 +28,7 @@ WIP
 
 ## Housing
 
-I also want to make a small 3D-printed housing for the switch tester. The housing angles the switches at 7 degrees and adds some extra space to show the pro micro and oled screen. Right now it's still a work in progress.
+I also want to make a small 3D-printed housing for the macropad. The housing angles the switches at 7 degrees and adds some extra space to show the pro micro and oled screen. Right now it's still a work in progress.
 
 ![Housing](images/housing.png)
 
@@ -76,3 +76,9 @@ The tester arrived and the idea to make the macropad was born.
 While waiting for the other parts to arrive I discoved the wondrous world of pcb designing. I took on the challenge and after a few day I managed to design and order my very first custom pcb. The layout was inspired by the Discipline keyboards. These pcbs will take a few weeks to arrive, but I've already been waiting for weeks anyways on the other parts.
 
 ![Pcb](images/pcb.png)
+
+### 28/07/2020
+
+All the parts I originally ordered have arrived (the Arduino Pro Micro, OLED screen & diodes). Now it's just a matter of waiting another few weeks for the pcb.
+
+![Parts](images/parts.jpg)
