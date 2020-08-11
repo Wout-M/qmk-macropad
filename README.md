@@ -7,24 +7,22 @@ This macropad is still a work in progress.
 ## Goals
 
 -   Fully programmable with multiple layers (QMK)
--   Easy switching between layers with a small button
 -   Display info about the current layer or other things on an OLED screen
 
-## Layouts
+## Firmware
+
+The firmware of the macropad is made with QMK.
+### Layouts
 
 The layout of the switch tester is 5 columns by 4 rows.
 
-### Blank
+#### Numpad + macros
 
-![Blank layout](images/layout-blank.jpg)
+![Layer0](images/layerO.png)
 
-### Numpad + macros
+#### Gamepad
 
-WIP
-
-### Gamepad
-
-WIP
+![Layer1](images/layer1.png)
 
 ## Housing
 
@@ -50,11 +48,6 @@ _The list is excluding shipping cost and prices may change over time. Some parts
 
 ![Wiring](images/wiring.jpg)
 
-## Firmware
-
-The firmware of the macropad is made with QMK.
-
-WIP
 
 ## Useful links
 
